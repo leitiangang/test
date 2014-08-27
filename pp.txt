@@ -1,1 +1,3 @@
 git is love
+git check out
+git pp
